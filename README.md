@@ -50,11 +50,12 @@
 ### 🚀 How to Run
 
 ```bash
-
 git clone https://github.com/Mr-B1nary/Timer.git
-
+```
+```bash
 cd Timer
-
+```
+```bash
 open index.html
 ```
 👨‍💻 Developer | Mr-B1nary
