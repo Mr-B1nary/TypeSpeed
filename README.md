@@ -1,4 +1,55 @@
-# Timer
-Timer with html, css, js 
+# ⏱️ Timer 
 
-<a href="https://mr-b1nary.github.io/Timer/">click to visit<a/>
+<div align="center">
+
+### ⏳ A Beautiful and Functional Timer with HTML, CSS, and JavaScript ⏳
+
+<br>
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-B1nary)
+
+<br>
+
+---
+
+## 🌐 Live Demo 
+
+
+[![Live Demo](https://img.shields.io/badge/🟢_VIEW_TIMER-00ff00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mr-b1nary.github.io/Timer)
+
+---
+
+## 🇬🇧 ENGLISH VERSION
+
+### 🎯 About The Project
+
+> **Timer** is a sleek, minimal, and fully functional web-based timer application. Built with pure HTML, CSS, and JavaScript – it's perfect for productivity, workouts, or any timing need.
+
+### ✨ Features
+
+| ⏱️ Precise Timing | 🎨 Modern UI | 📱 Fully Responsive |
+|:-----------------:|:------------:|:-------------------:|
+| Start, stop, and reset with precision | Clean and elegant design | Works on all devices |
+
+| 🖱️ Interactive Controls | ⚡ Lightweight & Fast | 🔧 Easy to Use |
+|:----------------------:|:--------------------:|:-------------:|
+| Simple and intuitive buttons | No dependencies or frameworks | Just open and start |
+
+### 🛠️ Technologies Used
+
+| Technology | Purpose |
+|:----------:|:-------:|
+| **HTML5** | Structure & content |
+| **CSS3** | Styling, animations, responsive design |
+| **JavaScript** | Timer logic & interactivity |
+
+### 📁 Project Structure
+Timer/
+│
+├── 📄 index.html              # صفحه اصلی
+├── 🎨 css.css                 # همه استایل‌ها
+├── ⚙️ script.js               # عملکرد تایمر
+└── 📖 README.md               # مستندات
