@@ -66,5 +66,5 @@ open index.html
 </p>
 
 ⭐ If you like this project, give it a star⭐<br>
-https://img.shields.io/github/stars/Mr-B1nary/Timer?style=for-the-badge&logo=github&color=yellow
+[![GitHub stars](https://img.shields.io/github/stars/Mr-B1nary/Timer?style=for-the-badge&logo=github&color=yellow)](https://github.com/Mr-B1nary/Timer/stargazers)
 
