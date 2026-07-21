@@ -19,7 +19,6 @@
 
 
 [![Live Demo](https://img.shields.io/badge/🟢_VIEW_TIMER-00ff00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mr-b1nary.github.io/Timer)
-
 ---
 
 
