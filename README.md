@@ -46,10 +46,22 @@
 | **CSS3** | Styling, animations, responsive design |
 | **JavaScript** | Timer logic & interactivity |
 
-### 📁 Project Structure
-Timer/
-│
-├── 📄 index.html              # صفحه اصلی
-├── 🎨 css.css                 # همه استایل‌ها
-├── ⚙️ script.js               # عملکرد تایمر
-└── 📖 README.md               # مستندات
+
+### 🚀 How to Run
+
+```bash
+
+git clone https://github.com/Mr-B1nary/Timer.git
+
+cd Timer
+
+open index.html
+```
+👨‍💻 Developer <br>
+🔥 (Mr-B1nary) 🔥
+
+<p align="center">
+<a href="https://instagram.com/mr_b1nary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_b1nary" height="30" width="40" /></a>
+<a href="https://t.me/Mr_B1naryy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mr_b1nary" height="30" width="40" /></a>
+</p>
+
