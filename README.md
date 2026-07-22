@@ -58,7 +58,7 @@ cd Timer
 ```bash
 open index.html
 ```
-👨‍💻 Developer | Mr-B1nary
+👨‍💻 Developed by Mr-B1nary
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
