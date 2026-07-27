@@ -7,7 +7,7 @@ const resetButton = document.querySelector("#reset");
 var timer = [0, 0, 0, 0];
 var timerRunnig = false;
 var interval;
-// تبع برای اضافه کردن صفر به تایمر دقیقه شمار
+
 function leadingZero(time) {
     if (time <= 9) {
         time = "0" + time;
@@ -15,7 +15,6 @@ function leadingZero(time) {
     return time;
 }
 
-// تابع برای شروع شدن تایمر
 function runTimer() {
 
     let currentTime = leadingZero(timer[0]) + ":" + leadingZero(timer[1]) + ":" + leadingZero(timer[2]);
@@ -28,7 +27,6 @@ function runTimer() {
     timer[2] = Math.floor(timer[3] - (timer[1] * 100) - (timer[0] * 6000));
 }
 
-// تابع برای ریست کردن تمامی توابع و تغییرات
 function reset() {
     clearInterval(interval);
     timer = [0, 0, 0, 0];
@@ -43,7 +41,6 @@ function reset() {
 
 }
 
-// تابع برای بررسی متن وارد شده توسط کاربر با متن اصلی
 function spellCeck() {
     let textEntered = testArea.value;
     let originTextMatch = originText.substring(0, textEntered.length);
@@ -67,7 +64,6 @@ function spellCeck() {
     }
 }
 
-//برای اجرا شدن تایمر بدون افزایش سرعت
 function Start() {
 
     if (timerRunnig == false) {
