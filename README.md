@@ -18,8 +18,8 @@
 ## 🌐 Live Demo 
 
 
-[![Live Demo](https://img.shields.io/badge/🟢_VIEW_TIMER-00ff00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mr-b1nary.github.io/Timer)
-<img src="https://github.com/Mr-B1nary/Timer/blob/main/Screenshot%202026-07-21%20191519.png">
+[![Live Demo](https://img.shields.io/badge/🟢_VIEW_TIMER-00ff00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mr-b1nary.github.io/TypeSpeed)
+<img src="https://github.com/Mr-B1nary/TypeSpeed/blob/main/Screenshot%202026-07-21%20191519.png">
 ---
 
 
