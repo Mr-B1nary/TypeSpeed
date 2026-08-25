@@ -1,4 +1,4 @@
-# ⏱️ Timer 
+# ⏱️ TypeSpeed 
 
 <div align="center">
 
