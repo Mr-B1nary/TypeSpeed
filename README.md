@@ -53,7 +53,7 @@
 git clone https://github.com/Mr-B1nary/Timer.git
 ```
 ```bash
-cd Timer
+cd TypeSpeed
 ```
 ```bash
 open index.html
